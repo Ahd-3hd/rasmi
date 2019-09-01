@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rasmi/static/css/main.f8af3253.chunk.css",
+    "main.js": "/rasmi/static/js/main.b2d3e00c.chunk.js",
+    "main.js.map": "/rasmi/static/js/main.b2d3e00c.chunk.js.map",
+    "runtime~main.js": "/rasmi/static/js/runtime~main.678e7461.js",
+    "runtime~main.js.map": "/rasmi/static/js/runtime~main.678e7461.js.map",
+    "static/js/2.7ab74bd2.chunk.js": "/rasmi/static/js/2.7ab74bd2.chunk.js",
+    "static/js/2.7ab74bd2.chunk.js.map": "/rasmi/static/js/2.7ab74bd2.chunk.js.map",
+    "index.html": "/rasmi/index.html",
+    "precache-manifest.7a7b79acebd0750f95c112ead3c6a4f7.js": "/rasmi/precache-manifest.7a7b79acebd0750f95c112ead3c6a4f7.js",
+    "service-worker.js": "/rasmi/service-worker.js",
+    "static/css/main.f8af3253.chunk.css.map": "/rasmi/static/css/main.f8af3253.chunk.css.map",
+    "static/media/App.css": "/rasmi/static/media/5.b8966d68.jpg",
+    "static/media/logo.svg": "/rasmi/static/media/logo.5d5d9eef.svg"
+  }
+}
